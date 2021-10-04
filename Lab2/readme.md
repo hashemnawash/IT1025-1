@@ -15,6 +15,7 @@ Hard drives are slower and can be damaged more easily. The disk must be spinning
 
 ### ALU and the Control Unit
 
+
   
 ### CPU, Input & Output
 ### Logic Gates 
