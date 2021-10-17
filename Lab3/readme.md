@@ -4,6 +4,7 @@ Hashem Nawash 10/16/2021
 In this lab we covered the information system component software and its types. At the same time the lab advanced virtualization and its problems. Furthermore, we wrote a program based on the computer language called python. The professor also asked us to study our goals in Information technology. We made a resume and studied the different opportunities the IT field has to offer.
 
 ## Software
+
 ### Types of Software
 ### ERP
 
