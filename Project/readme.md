@@ -18,3 +18,4 @@ See Blackboard for details
 
 In coclusion i will begin to research on the differences between apple and windows mixcrosoft. From applications to cell phones. This really interests me. I plan to develop a base ground on both types of software.
 
+ 
