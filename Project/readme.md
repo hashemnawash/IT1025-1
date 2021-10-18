@@ -1,12 +1,13 @@
-### Your Name / Date
+### Hashem Nawash 10/17/2021
 
 ### Executive Summary
+The purpose of this assignment is to give the topic of our research project. 
 
-Include your executive summary
+
 
 ### Part Part 1: Project Intent and Plan
 
-Describe the process you will take to become co-op ready (include dates of seminars you will plan if you elect Option 1 OR, a brief description of the project you plan to implement (programming, research etc.)
+I plan to expalin and contrast the difference between microsoft windows and apple. I will discuss the history as well as the details in differences technologically. I will sate the differences in the cpu and computer makeup aswell as the software differences.
 
 ### Project Part 2:
 
@@ -16,5 +17,5 @@ See Blackboard for details
 
 ### Conclusion
 
-Include your conclusion
+In coclusion i will begin to research on the differences between apple and windows mixcrosoft. From applications to cell phones. This really interests me. I plan to develop a base ground on both types of software.
 
