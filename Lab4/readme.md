@@ -1,4 +1,4 @@
-## Your Name / Date
+## Hashem Nawash 11/1/2021
 
 ## Executive Summary 
 The purpose of this lab is to study the basic components of an operating sytem by commands. We opened a folder using the command prompt and began to further the study of python.
