@@ -4,7 +4,7 @@
 The purpose of this lab is to study the basic components of an operating sytem by commands. We opened a folder using the command prompt and began to further the study of python.
 Furthermore, the lab gave us a glimpse at graphic design and the study of variables. The lab concluded with the study of logos in internet programming.
 ## Python IDLE
-Python Shell is a command line tool that starts up the python interpreter, also,in order to write a more complexed python program you need an editor.(google) IDLE, on the other hand, has combined the editor and interpreter, which allow both  to  function unanimously(Google).
+Python Shell is a command line tool that starts up the python interpreter, also,in order to write a more complexed python program you need an editor.(google) IDLE, on the other hand, has combined the editor and interpreter, which allow both  to  function unanimously(Google).According to the reading from chapter 1,
 
 ## Code Examples
 ### Variable:
