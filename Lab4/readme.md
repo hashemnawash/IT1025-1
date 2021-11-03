@@ -20,10 +20,11 @@ The three data types are integers, floating point numbers, and strings. Integers
 ## Graphics
 
 ### Raster vs. Vector Graphics
-A raster is when you enlarge a small picture and it loses its quality because of millions of tiny pixels. When you view a raster image at its original size or smaller, the pixels are invisible—they're just too small to see.(Begining graphic design) Vector graphics are quite different you can make them any size you want and are not made from pixels, but a special form of geometry.
+A raster is when you enlarge a small picture and it loses its quality because of millions of tiny pixels. When you view a raster image at its original size or smaller, the pixels are invisible—they're just too small to see.(Begining graphic design) Vector graphics are quite different you can make them any size you want and are not made from pixels, but a special form of geometry. Raster images are best for photoes, while vector images are best for logos.
 ### Lossless vs. Lossy Compression
 lossless images means that all data from the original file is preserved(JOt form) Lossless compression images remove some data from the original file and saves the image with a reduced file size(JOtform). It matters to developers which they use because data can be lost or preserved. Each type of image can loose its quality and regarding what image you want to portray depending if you want to save the file or not regarding size. The file sizes matter to the graphic designer and if he wants to decrease the size of the file, which one matters.
 ### File Formats
+Transform encoding is the type of encoding used for jpg.Jpeg is an image format that uses lossy compression to create smaller file sizes.One of jpegs advantages is it allows the author to fine tune the amount of compression. PNG uses lossless compression and was created to replace the gif. The similarities are all files fall under some sort of compression. They both take up space and have an effect on the image.
 ### File Properties
 
 ## Conclusion
