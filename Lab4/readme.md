@@ -26,6 +26,7 @@ lossless images means that all data from the original file is preserved(JOt form
 ### File Formats
 Transform encoding is the type of encoding used for jpg.Jpeg is an image format that uses lossy compression to create smaller file sizes.One of jpegs advantages is it allows the author to fine tune the amount of compression. PNG uses lossless compression and was created to replace the gif. The similarities are all files fall under some sort of compression. They both take up space and have an effect on the image.
 ### File Properties
+The size of the file is 50.7 kb. Also the size on the disk is 57 kb. The file took up some space on my hard drive. There is also the date of the image. This is a vector image. This is also lossy compression.
 
 ## Conclusion
 In this lab i found many difficulties studieng the command prompt. I have my stepmothers computer and it wouldn't let me put my name in lace of hers. I also can now open a file, but i couldn't create a new folder. There goes 6 points. I did the first step and got through the directory. Although i had difficulties i had fun using the pyhton language. My logo was nicely made and i am eager to learn more.
