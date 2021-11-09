@@ -27,7 +27,9 @@ A hub only knows when its devices are connected to other ports. Accepts internet
 Exchanges and routes data all over the internet. Routers read ip addresses. Routers forward datta from one network to another using the IP adress.  Routing determines if ip adress needs to go through a network. Accepts data packets which are only inteneded for certain computers. SWitch and hub can't connect to the internet they do not use ip addresses. Switches keep the mac adresses.  The hub and switch cannot epand dat drom different locations in the world. Intended data is given through routers to anyone intended unlike the hubs and switches. 
 ### Network Topologies
 #### Single point of Failure
+Wire topologies such as the star topology can go through a single point of failure. When the switch or hub fails all computers on the central point would be effected taking down the entire network. All  the computers are connected to a hub or switch in the star topology. When a computer fails all the other are still not effected.
 #### Infrastrucutre vs. Wireless Mesh
+In the infrastructure topology you can connect the switch to a wireless access point. It can connect computers and lab tops. IN a wireless mesh all devices are wirelessly interconnected.  AS you ask for internet connection the signal goes through multiple devices just to get to the switch. I believe the infrastructure topology would be best because it is easy access from a switch to the connection of a lab top. It is very efficient for the home use. While wireless mesh is great for businesses. 
 ### Network Design
 ### NSA/CSS
 
