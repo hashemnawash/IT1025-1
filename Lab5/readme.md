@@ -3,6 +3,7 @@
 ## Executive Summary 
 In this lab we studied the science of anlytics and logic through the use of the lucid chart. We then went through networking and defined key concepts. Furthermore , we concluded the lab with the study of cyber security. There are threats to our national interest. We studied ways you can fix problems in networking along with different issues such as the common sense behind the homeland security defense against hackers.
 ## Lucidchart
+My experiene using the lucid chart was profoundly interesting. I was tutored on the subject and we got through it very quickly. The common sence of programming and the process of creating the chart was easy. I liked how we can program a number to type big or small. It was very fascinating.
 
 ## Introduction to Networking
 
