@@ -1,4 +1,4 @@
-## Your Name / Date
+Hashem Nawash 11/14/2021
 
 ## Executive Summary 
 In this lab we studied the science of anlytics and logic through the use of the lucid chart. We then went through networking and defined key concepts. Furthermore , we concluded the lab with the study of cyber security. There are threats to our national interest. We studied ways you can fix problems in networking along with different issues such as the common sense behind the homeland security defense against hackers.
@@ -32,9 +32,11 @@ Wire topologies such as the star topology can go through a single point of failu
 #### Infrastrucutre vs. Wireless Mesh
 In the infrastructure topology you can connect the switch to a wireless access point. It can connect computers and lab tops. IN a wireless mesh all devices are wirelessly interconnected.  AS you ask for internet connection the signal goes through multiple devices just to get to the switch. I believe the infrastructure topology would be best because it is easy access from a switch to the connection of a lab top. It is very efficient for the home use. While wireless mesh is great for businesses. 
 ### Network Design
+I created a link between two computers and 2 routers. They connect to the internet and have legitimacy by connecting all together. This diagram i made shows the ability for the internet to connect through multiple devices.
+
 ### NSA/CSS
 
-"NSA Cybersecurity prevents and eradicates threats to U.S. national security systems with a focus on the Defense Industrial Base and the improvement of U.S. weapons’ security. It also strives to promote cybersecurity education, research, and career-building."(NSA)
+The NSA Cybersecurity program prevents and eradicates threats to U.S. national security systems and focuses on the Defense Industrial Base and the development of U.S. weapons’ security. It also strives to promote cybersecurity education, research, and career-building."(NSA)
 ## Cybersecurity and Encryption
 
 ### Information Systems Security
@@ -54,5 +56,5 @@ In the infrastructure topology you can connect the switch to a wireless access p
 #### Brute-Force
 
 ## Conclusion
-Include your professional conclusion here...
+During this lab i figured out how to attain through logical reasoning a lucid chart. I also created a framework of a connector in a certain infrastructure. Cyber security seemed interesting and i hope to further learn more in cyber security club. Learning networking was also fun and i hope to achieve a degree to perform this task through employment. I really want to achieve through percision and the power of the human spirit. 
 
