@@ -42,18 +42,31 @@ The NSA Cybersecurity program prevents and eradicates threats to U.S. national s
 ### Information Systems Security
 
 #### Security Triad
+Availability would effect  an amazon chat by the time table in which the information goes through. Integrity would be that everything the buyer and seller say is true. Finally confidentiality would apply to amazon by someone hacking into your personal information and stealing your identity.
 #### Authentication
+
+When you are pulled over by a police officer, you need yur id. When you travel you need your passport. THird when you check in at tri-c you need your shool id . A police officer can make it  multi factor by your figrer prints. At the airport they could ask for your social security id card. And finally at tri c they  can ask for your email adress.
 #### ACL and RBAC
+Access control is when only certain people can add or delete personal information. RBAC is when instead of giving users accesed base rights, users are assigned to roles creating less administration. Users have specific rights according to the information and conduct operation separately. This improves security. The draw back of the ACL is that each resource is managed separately creating a problem in which the manager has to go through multi tasks from a giant resource.
 #### Ciphertext, Public Key and Private Key
+The interaction is when a public and private key are both used the ciphertext is the communication channell. A user sends an encrypted message you encode the message than send it. Than the private key accepts the message and decodes it. The cipher text is what is sent to each the private and public key.
 #### Public Key Cryptography
+It is important because the hacker cannot determine the secret code numeration when two parties add their own  value privately. The hacker cannot determine what both parties added to the numeration which than is passed to each other. 
 
 ### Cryptography
 #### Encryption
-#### Frequency Fingerprint
-#### Polyalphabetic Cipher
-#### Polyalphabetic Example
+The encryption moves three letters from starting point. Ceaser invented this secret form of coding. My encryption is ujqhlgyjshzq ak s yjgoafy xawdy.
 
-#### Brute-Force
+#### Frequency Fingerprint
+The frequency of each letter in english shows the differences between the placement of each letter. When using different languages it is always different. The language really makes a difference.
+
+#### Polyalphabetic Cipher
+It is a cipher based on substitution using multiple substitution alphabets.(Google) The alphabet used at each point depends on a repeating keyword. (google)
+#### Polyalphabetic Example
+I put my name is hashem and i had a row of many z's. There is a shift word "my name" When words repeat you use a polyalphabetic cipher.
+
+#### Brute-ForceCh
+This action requires every possible decryption key for a cipher. 'Nothing stops a cryptanalyst from guessing , decrypting the ciphertext with that key, looking at the output, and then moving on to the next key if they didn’t find the secret message.'(Brute FORCE Ceaser Chapter 6)
 
 ## Conclusion
 During this lab i figured out how to attain through logical reasoning a lucid chart. I also created a framework of a connector in a certain infrastructure. Cyber security seemed interesting and i hope to further learn more in cyber security club. Learning networking was also fun and i hope to achieve a degree to perform this task through employment. I really want to achieve through percision and the power of the human spirit. 
