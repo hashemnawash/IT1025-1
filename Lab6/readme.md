@@ -1,7 +1,7 @@
 ## Hashem Nawash 11/19/2021
 
 ## Executive Summary 
-Include your executive summary here...
+In this lab we studied the ip adress and its numerical composition. We also studied
 
 ## Internet Architecture
 ### Internet Protocol
