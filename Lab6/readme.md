@@ -17,7 +17,7 @@ TCP/IP stands for “Transmission Control Protocol / Internet Protocol”. "It i
 They work in manner similar to a telephone, in  which the ip number is a telephone call and the extension is the port number. The client dials the ip number and the server listens to the calls. The client can dial any ip address he wants while the server connects him or her. 
 
 #### Layers
-They are important because you can change any portion of the protocol stack and have the sdame desired outcome. 
+They are important because you can change any portion of the protocol stack and have the sdame desired outcome. In the future all new innovations that change the layer regiment, have no effect on the same desired outcome.
 #### Application Layer
 HTTP, POP3, IMAP4, SMTP
 
