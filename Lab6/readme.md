@@ -12,9 +12,14 @@ ICANN is responsible for coordinating the management of the technical elements o
 
 ### TCP/IP
 #### Responsibility of TCP/IP
-#### ClientTCP/IP stands for “Transmission Control Protocol / Internet Protocol”. It is basically a network protocol that defines the details of how data is sent and received through network adapters, hubs, switches, routers and other network communications hardware.-Server Model and TCP/IP
+TCP/IP stands for “Transmission Control Protocol / Internet Protocol”. "It is fundamentally a network protocol that defines the purpose of how data is sent and received through network adapters, hubs, switches, routers through network." (Basics to TCP). It was created by the us department of defense to connect the US's computer systems. It later developed through institutions into the internet. Client server connection is made virtually by the tcp, this program controlls the movement of the internet. Data is sent through this manner and when ip addresses are given it is as if a telephone just called, the tcp connect you and all data is than given through the connection. 
+#### ClientTCP/IP/
+They work in manner similar to a telephone, in  which the ip number is a telephone call and the extension is the port number. The client dials the ip number and the server listens to the calls. The client can dial any ip address he wants while the server connects him or her. 
+
 #### Layers
+They are important because you can change any portion of the protocol stack and have the sdame desired outcome. 
 #### Application Layer
+HTTP, POP3, IMAP4, SMTP
 
 ## Internet Security
 ### HTTP and Client-Server Model
