@@ -23,7 +23,9 @@ HTTP, POP3, IMAP4, SMTP
 
 ## Internet Security
 ### HTTP and Client-Server Model
+Http stands for hyper text transfer protocol. When you type ina web address you use http to retrieve the web page. Your information is sent in clear text over the public internet. Hackers can retrieve information from the http address.
 ### Protocols for Secure HTTP
+SEcure hypertext protocol. It has a security feature. All transfer is secure because the data is encrypted and impossible to read. The s means you are entering secure web sites and everything is protected. There is also a pad lock symbol through https. The data is scrambelled so hackers csan't read the information. 
 
 ## Securing your Web Browser
 ### Reasons to Secure Browser
