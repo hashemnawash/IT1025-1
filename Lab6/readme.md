@@ -28,11 +28,15 @@ Http stands for hyper text transfer protocol. When you type ina web address you 
 SEcure hypertext protocol. It has a security feature. All transfer is secure because the data is encrypted and impossible to read. The s means you are entering secure web sites and everything is protected. There is also a pad lock symbol through https. The data is scrambelled so hackers csan't read the information. 
 
 ## Securing your Web Browser
+  
 ### Reasons to Secure Browser
+You should secure your web browser from spyware and hackers. Not securing your web browser can lead to the malfunction of your computer, as well as the theft of personal information. Hackers can destroy your files, and use your computer to attack other computers.
 ### Risk Explained
-
+A risk is the action of using cookies, which is files placed on your system to store data for specific websites(securing your web browser). If a website uses cookies for authentification then a hacker may be "able to acquire unauthorized access to that site by obtaining the cookie( securing your web browser)."
 ## Internet Programming
 ### World Wide Web Consortium
+Lee invented the world wide web and created the consortium to connect the world together. Through his invention businesses and social networks would connect. Networking would take a new ohase and through his consortium technology could be passed and studied by the world. 
+
 ### HTML5 and CSS
 ### HTML and XML
 
