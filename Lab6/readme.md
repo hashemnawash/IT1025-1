@@ -35,12 +35,22 @@ You should secure your web browser from spyware and hackers. Not securing your w
 A risk is the action of using cookies, which is files placed on your system to store data for specific websites(securing your web browser). If a website uses cookies for authentification then a hacker may be "able to acquire unauthorized access to that site by obtaining the cookie( securing your web browser)."
 ## Internet Programming
 ### World Wide Web Consortium
-Lee invented the world wide web and created the consortium to connect the world together. Through his invention businesses and social networks would connect. Networking would take a new ohase and through his consortium technology could be passed and studied by the world. 
+Lee invented the world wide web and created the consortium to connect the world together. Through his invention businesses and social networks would connect. Networking would take a new ohase and through his consortium technology could be passed and studied by the world.  A standard would be web design and its applications. This is defined as building and rendering web pages. The building of them constitutes the building blocks of a standard which encompasses connection between the client and the world.
 
 ### HTML5 and CSS
 ### HTML and XML
 
 ## Components of a URL
+https=scheme. A typical URL begins with the scheme. "This tells your browser what type of address it is so the browser connects to it correctly."(Internet tips)
 
+ www.amazon.com=domain The name of the web site. Parts of the name are secondary or top level. 
+ 
+ default page,=no file path provided  When you don't click on a domain a default page occurs. 
+ 
+  top level domain name=.edu When you plug in a top level domain a list of conected things pop up. It gives you a list which is similar to what you are looking for.
+  
+  anchor =specific location on the page  An anchor is made when the anchor tells your browser to scroll to or load a specific part of the page.
+  
+ parameters=result of page This goes after the domain name. It is a long string of letters and numbers after you click something on the site. 
 ## Conclusion
-Include your conclusion here...
+In coclusion i found it difficult to upload all the files. My computer does not have much space. I ultimately want to buy a new computer. I did my very best and hope to improve on what i learned from this course. I am eager to learn more  and have become more familliar witht the study of web design and the url. 
