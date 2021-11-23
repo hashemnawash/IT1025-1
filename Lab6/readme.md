@@ -1,7 +1,7 @@
 ## Hashem Nawash 11/19/2021
 
 ## Executive Summary 
-In this lab we studied the ip adress and its numerical composition. We also studied web programming and created our own web site. Furthermore, we studied the web browser and went further with internet programming.
+In this lab we studied the ip adress and its numerical composition. We also studied web design and created our own web site. Furthermore, we studied the web browser and went further with internet programming.
 
 ## Internet Architecture
 ### Internet Protocol
@@ -32,13 +32,15 @@ SEcure hypertext protocol. It has a security feature. All transfer is secure bec
 ### Reasons to Secure Browser
 You should secure your web browser from spyware and hackers. Not securing your web browser can lead to the malfunction of your computer, as well as the theft of personal information. Hackers can destroy your files, and use your computer to attack other computers.
 ### Risk Explained
-A risk is the action of using cookies, which is files placed on your system to store data for specific websites(securing your web browser). If a website uses cookies for authentification then a hacker may be "able to acquire unauthorized access to that site by obtaining the cookie( securing your web browser)."
+A risk is the action of using cookies, which is files placed on your system to store data for specific websites(securing your web browser). If a website uses cookies for authentification then a hacker may be "able to acquire unauthorized access to that site by obtaining the cookie( securing your web browser)." They can follow my aqctivities on line and they can track bank accounts from the data. They can know a lot of personal information and invade privacy.
 ## Internet Programming
 ### World Wide Web Consortium
 Lee invented the world wide web and created the consortium to connect the world together. Through his invention businesses and social networks would connect. Networking would take a new ohase and through his consortium technology could be passed and studied by the world.  A standard would be web design and its applications. This is defined as building and rendering web pages. The building of them constitutes the building blocks of a standard which encompasses connection between the client and the world.
 
 ### HTML5 and CSS
+I used html5 to code my web site. I ran my program and made a paragraph with a ropic. HTML5 is used for basic word logic. CSS defines the character of your words. It allows us to color code and change the font size and description. I also had trouble making a border around the paragraph.
 ### HTML and XML
+XML does not do anything except a person runs a program to recieve and send data.XML was designed to carry data. "HTML was designed to display data - with focus on how data looks."(XML INtroduction)XML tags are not predefined like html tags.
 
 ## Components of a URL
 https=scheme. A typical URL begins with the scheme. "This tells your browser what type of address it is so the browser connects to it correctly."(Internet tips)
