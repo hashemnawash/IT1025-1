@@ -55,4 +55,4 @@ https=scheme. A typical URL begins with the scheme. "This tells your browser wha
   
  parameters=result of page This goes after the domain name. It is a long string of letters and numbers after you click something on the site. 
 ## Conclusion
-In coclusion i found it difficult to upload all the files. My computer does not have much space. I ultimately want to buy a new computer. I did my very best and hope to improve on what i learned from this course. I am eager to learn more  and have become more familliar witht the study of web design and the url. 
+In coclusion i found it difficult to upload all the files. My computer does not have much space. I ultimately want to buy a new computer. I did my very best and hope to improve on what i learned from this course. I am eager to learn more  and have become more familliar witht the study of web design and the url.  
