@@ -16,11 +16,13 @@ The foreign key of the orders table would be the orders id. This would connect b
 
 
 ### Field Data Types
-There are two important reasons that we must properly define the data type of a field.(DAta and data bases) First, a data type tells the database what functions can be performed with the data. For example, if we wish to perform mathematical functions with one of the fields, we must be sure to tell the database that the field is a number data type.The second important reason to define data type is so that the proper amount of storage space is allocated for our data.(Data and data bases)
+There are two main reasons that  define the data type of a field.(DAta and data bases) First, a data type tells the database what functions can be taken with the performance of the data. "For example, if we  perform mathematical functions with one of the fields, we must be sure to tell the database that the field is a number data type"(Data and data bases).The second important reason to define data type is so that the proper amount of storage space is allocated for our data."(Data and data bases)
 
 ### Big Data
 #### Four "V"s of Big Data
+Volume is important and refers to the size of the data.Variety refers to heterogeneous sources and the nature of data.Velocity refers to the sppeed at which data is generated. Finally variability refers to the inconsistency at which data can be applied.It makes it difficult to handle and manage data efferctively. 
 #### Technology Driving the need for Big Data
+
 
 ## Structured Query Language (SQL) 
 ### RDBMS and SQL
