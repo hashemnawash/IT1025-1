@@ -32,11 +32,14 @@ RDMBS stands for relational data base management system.The data in RDBMS is sto
 
 
 ## SQL Injections
+SQL injections are a code injection technique. It destroys your data base. SQL injection always occurs when you ask a user for input, like their username/userid, and instead of a name/id, the user gives you an SQL statement that you will unknowingly run on your database.(SQL injection) To defend agaisnt sql injections you may use sql parameters. SQL parameters are values that are added to an SQL query at execution time, in a controlled manner.(SQL injection)
 
 ## Ethical and Legal Implications
 ### Code of Ethics
+"A code of ethics is a document that outlines a set of acceptable behaviors for a professional or social group." (chapter 12)One of the major advantages of creating a code of ethics by the acm is that it clarifies the acceptable standards of behavior for a professional group.(CHapter12) The varied backgrounds and experiences of the members of a group lead to a variety of ideas regarding what is acceptable behavior. While to many the guidelines may seem obvious, having these items detailed provides clarity and consistency. (Chapter 12)
 ### Intellectual Property
+If the svg was used as a good or service it would need to be trademarked. As long as an organization uses its trademark and defends it against infringement, the protection afforded by it does not expire.(Chapter 12) It is important to copywrite the svg model to protect our patent.No one may use the same logo not to steal my idea or take away my own unique perspective. My logo has its own copywrite which details no one may use the same. My idea makes me money and no one cans steal the profit from my logo. 
 ### Information Collection
-
+Through digital technologies adolescents have the right to keep their information private. Through health care individuals have the right to keep their information disclosed. ON line, people will never get information based on these organizations because they protect the privacy of its own users whos information is case sensetive. 
 ## Conclusion
 I learned a lot from this lab, primarily the sql language. I hope to improve my python skills in the future. ON break i will begin to look more into python and computer language. I also enjoyed learning the subject of intellectual property. Computers and there science have their own legal implications. ..
