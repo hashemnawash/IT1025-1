@@ -22,7 +22,7 @@ There are two main reasons that  define the data type of a field.(DAta and data 
 #### Four "V"s of Big Data
 Volume is important and refers to the size of the data.Variety refers to heterogeneous sources and the nature of data.Velocity refers to the sppeed at which data is generated. Finally variability refers to the inconsistency at which data can be applied.It makes it difficult to handle and manage data efferctively. 
 #### Technology Driving the need for Big Data
-
+Technology such as search engines and social media web sites have driven the need for big data. Terabytes are generated in a day from facebook and search engines. Big data must process tons of information. 
 
 ## Structured Query Language (SQL) 
 ### RDBMS and SQL
@@ -36,4 +36,4 @@ Volume is important and refers to the size of the data.Variety refers to heterog
 ### Information Collection
 
 ## Conclusion
-Include your conclusion here...
+I learned a lot from this lab, primarily the sql language. I hope to improve my python skills in the future. ON break i will begin to look more into python and computer language. I also enjoyed learning the subject of intellectual property. Computers and there science have their own legal implications. ..
