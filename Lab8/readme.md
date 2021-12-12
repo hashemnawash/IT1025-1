@@ -1,6 +1,7 @@
 ## Hashem Nawash 12/12/2021
 
 ## Executive Summary 
+The purpose of this lab was to study the sql data base language. WE also studied data, which accompanied the discussion of Big data. 
 
 
 ## Data, Information and Knowledge
