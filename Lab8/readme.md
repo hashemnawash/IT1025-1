@@ -26,7 +26,9 @@ Technology such as search engines and social media web sites have driven the nee
 
 ## Structured Query Language (SQL) 
 ### RDBMS and SQL
+RDMBS stands for relational data base management system.The data in RDBMS is stored in database objects and they are called  tables. A table is a collection of related data entries and it consists of columns and rows.(SQL introduction) Each table is divided up into smaller entities called fields. The field in the customers table example are  CustomerID, CustomerName, ContactName, Address, City, PostalCode and Country. A field is a column in a table that is designed to maintain specific information about every record in the table.(sql introduction) SQL lets you manipulate data bases. RDMBS run under the sql and make up the data which derives from the sql language. 
 ### Relationship, Primary and Foreign Keys
+
 
 ## SQL Injections
 
